@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058375599243",
+    "firebase_url": "https://webrtc-test-43a13-default-rtdb.firebaseio.com",
+    "project_id": "webrtc-test-43a13",
+    "storage_bucket": "webrtc-test-43a13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058375599243:android:b41366c6a731cf324c808e",
+        "android_client_info": {
+          "package_name": "com.app.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058375599243-mfag9dl97j7ok13g7bgg7da06hcn5m7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.videocall",
+            "certificate_hash": "cc8b2e56ff521fd6e0eba6653f67905e8c4548fe"
+          }
+        },
+        {
+          "client_id": "1058375599243-q2n7bu93agptgc7jmr2faji8nev714k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3hnt4jwCBT2hFTyPmbaqkA_CF5_fbnEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058375599243-q2n7bu93agptgc7jmr2faji8nev714k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VideoCall</string>
+
+
+
+    <string name="pref_speakerphone_key">speakerphone_preference</string>
+    <string name="pref_speakerphone_default">auto</string>
+</resources>
